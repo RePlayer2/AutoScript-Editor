@@ -62,6 +62,10 @@ cd step_editor
 python run.py
 ```
 
+## 界面演示
+
+![1777474535480](C:\Users\1\AppData\Roaming\Typora\typora-user-images\1777474535480.png)
+
 ## 使用指南
 
 ### 1. 添加步骤
