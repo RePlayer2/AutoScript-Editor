@@ -1,0 +1,10 @@
+# 自动化步骤编辑器依赖
+
+# GUI 和自动化库
+pyautogui>=0.9.54
+pynput>=1.7.6
+
+# 类型提示（Python 3.8+ 内置）
+typing>=3.7.4.3
+
+# 注意：tkinter 通常随 Python 安装，无需额外安装
