@@ -63,8 +63,7 @@ python run.py
 ```
 
 ## 界面演示
-
-![1777474535480](C:\Users\1\AppData\Roaming\Typora\typora-user-images\1777474535480.png)
+<img width="1052" height="897" alt="image" src="https://github.com/user-attachments/assets/c50585b4-9751-462d-a9b6-59c3effff8cd" />
 
 ## 使用指南
 
